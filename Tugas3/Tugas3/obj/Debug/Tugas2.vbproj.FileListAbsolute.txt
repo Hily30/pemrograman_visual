@@ -1,0 +1,15 @@
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\bin\Debug\Tugas2.exe.config
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\bin\Debug\Tugas2.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\bin\Debug\Tugas2.pdb
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\bin\Debug\Tugas2.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.vbprojResolveAssemblyReference.cache
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.Resources.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.Segitiga.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.pdb
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.Lingkaran.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.Persegi_panjang.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.jajargenjang.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 2\Tugas2 A.PBO\Tugas2\Tugas2\obj\Debug\Tugas2.kubus.resources

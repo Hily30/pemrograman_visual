@@ -1,0 +1,13 @@
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\bin\Debug\Multiform.exe.config
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\obj\Debug\Multiform.vbprojResolveAssemblyReference.cache
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\obj\Debug\Multiform.Form1.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\obj\Debug\Multiform.Form2.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\obj\Debug\Multiform.Resources.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\obj\Debug\Multiform.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\obj\Debug\Multiform.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\bin\Debug\Multiform.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\bin\Debug\Multiform.pdb
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\bin\Debug\Multiform.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\obj\Debug\Multiform.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\obj\Debug\Multiform.pdb
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 7\Latihan7\Multiform\Multiform\obj\Debug\Multiform.Form3.resources

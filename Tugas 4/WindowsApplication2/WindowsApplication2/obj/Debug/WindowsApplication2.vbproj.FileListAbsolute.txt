@@ -1,0 +1,10 @@
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 4\Tugas 4\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 4\Tugas 4\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 4\Tugas 4\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 4\Tugas 4\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 4\Tugas 4\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 4\Tugas 4\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 4\Tugas 4\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 4\Tugas 4\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 4\Tugas 4\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 4\Tugas 4\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

@@ -1,0 +1,11 @@
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pak pred Pem. visual\Minggu 5\Latihan dan praktik\Bonus\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

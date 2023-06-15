@@ -1,0 +1,11 @@
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\bin\Debug\Checkbox.exe.config
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\bin\Debug\Checkbox.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\bin\Debug\Checkbox.pdb
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\bin\Debug\Checkbox.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\obj\Debug\Checkbox.vbprojResolveAssemblyReference.cache
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\obj\Debug\Checkbox.Form1.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\obj\Debug\Checkbox.Resources.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\obj\Debug\Checkbox.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\obj\Debug\Checkbox.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\obj\Debug\Checkbox.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Checkbox\Checkbox\obj\Debug\Checkbox.pdb

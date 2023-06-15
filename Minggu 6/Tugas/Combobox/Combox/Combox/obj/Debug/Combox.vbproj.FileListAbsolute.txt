@@ -1,0 +1,10 @@
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Combobox\Combox\Combox\bin\Debug\Combox.exe.config
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Combobox\Combox\Combox\bin\Debug\Combox.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Combobox\Combox\Combox\bin\Debug\Combox.pdb
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Combobox\Combox\Combox\bin\Debug\Combox.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Combobox\Combox\Combox\obj\Debug\Combox.Form1.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Combobox\Combox\Combox\obj\Debug\Combox.Resources.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Combobox\Combox\Combox\obj\Debug\Combox.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Combobox\Combox\Combox\obj\Debug\Combox.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Combobox\Combox\Combox\obj\Debug\Combox.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\Combobox\Combox\Combox\obj\Debug\Combox.pdb

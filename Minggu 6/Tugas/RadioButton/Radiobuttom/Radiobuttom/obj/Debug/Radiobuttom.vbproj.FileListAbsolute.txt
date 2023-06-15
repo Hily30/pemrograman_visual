@@ -1,0 +1,10 @@
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\RadioButton\Radiobuttom\Radiobuttom\bin\Debug\Radiobuttom.exe.config
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\RadioButton\Radiobuttom\Radiobuttom\bin\Debug\Radiobuttom.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\RadioButton\Radiobuttom\Radiobuttom\bin\Debug\Radiobuttom.pdb
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\RadioButton\Radiobuttom\Radiobuttom\bin\Debug\Radiobuttom.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\RadioButton\Radiobuttom\Radiobuttom\obj\Debug\Radiobuttom.Form1.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\RadioButton\Radiobuttom\Radiobuttom\obj\Debug\Radiobuttom.Resources.resources
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\RadioButton\Radiobuttom\Radiobuttom\obj\Debug\Radiobuttom.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\RadioButton\Radiobuttom\Radiobuttom\obj\Debug\Radiobuttom.exe
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\RadioButton\Radiobuttom\Radiobuttom\obj\Debug\Radiobuttom.xml
+D:\KULIAH\Semester 6 2023\Hilyah Pem. visual\Minggu 6\Checkbox\RadioButton\Radiobuttom\Radiobuttom\obj\Debug\Radiobuttom.pdb
